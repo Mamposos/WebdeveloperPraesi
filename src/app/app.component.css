@@ -1,0 +1,7 @@
+#appHeader {
+    position: sticky;
+    position: -webkit-sticky;
+    /*Damit es auf bei Safari sticky ist*/
+    top: 0;
+    background-color: white;
+}
